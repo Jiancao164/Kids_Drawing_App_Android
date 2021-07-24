@@ -166,7 +166,7 @@
             />
         <ImageButton
             android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_height="5dp"
             android:id="@+id/ib_save"
             android:src="@drawable/ic_save"
             android:contentDescription="save image"
